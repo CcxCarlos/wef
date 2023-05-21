@@ -6,6 +6,7 @@ https://user-images.githubusercontent.com/113537135/232480290-aaacdb04-eeef-4af6
 
 https://github.com/CcxCarlos/wef/assets/113537135/8278f1e4-7159-4380-b8ce-8edd3c98c8a1
 
+![Nombre del video](./basic-form-video.mp4)
 
 
 La imatge dels perfils, tant dels alumnes com de les empreses, és la mateixa perquè és un exemple.
