@@ -1,7 +1,11 @@
 
 Video:
 
-https://github.com/CcxCarlos/wef/assets/113537135/8278f1e4-7159-4380-b8ce-8edd3c98c8a1
+
+
+
+https://github.com/CcxCarlos/wef/assets/113537135/67b62448-7a9e-4eb5-a153-41600cc9a67d
+
 
 
 La imatge dels perfils, tant dels alumnes com de les empreses, és la mateixa perquè és un exemple.
